@@ -39,5 +39,9 @@ ou seja, quando a energia se divide em dois;
 "O lado negro é o Yin e o branco o Yang; o pequeno círculo branco no lado negro significa que o Yin possui o Yang e, 
 o círculo que o lado branco possui significa que Yang possui Yin."
 
+![This is an Yin Yang](https://s1.static.brasilescola.uol.com.br/be/e/yni-yang.jpg)
+
 
 Veja mais em: https://brasilescola.uol.com.br/filosofia/yin-yang.htm
+
+
